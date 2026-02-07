@@ -2,7 +2,7 @@
 
 <img src="header.svg" alt="jarero" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Founder+Engineer+%7C+Indie+Hacker;Building+developer+tools+in+public;3+npm+packages+shipped;5%2B+years+shipping+fintech+across+LATAM;I+ship+fast.+I+own+the+outcome." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Building+developer+tools+in+public;3+npm+packages+shipped;5%2B+years+shipping+fintech+across+LATAM;I+ship+fast.+I+own+the+outcome." alt="Typing SVG" /></a>
 
 <br>
 
@@ -17,7 +17,7 @@
 
 Software Engineer with **5+ years** building fintech products that scaled from Mexico to **8 LATAM countries**. I build developer tools, MCP servers, and CLI scaffolders. AI-first workflow — I use Claude to code and ship fast.
 
-Looking for **Founding Engineer** roles where I own the product end-to-end, ship daily, and build in high-autonomy environments where results > process.
+I own the product end-to-end, ship daily, and thrive in high-autonomy environments where results > process.
 
 ---
 
