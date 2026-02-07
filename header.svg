@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="130" viewBox="0 0 340 130">
+  <style>
+    text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 16px;
+      fill: #70A5FD;
+    }
+  </style>
+  <text y="20" xml:space="preserve">   _</text>
+  <text y="40" xml:space="preserve">  (_) __ _ _ __ ___ _ __ ___</text>
+  <text y="60" xml:space="preserve">  | |/ _` | '__/ _ \ '__/ _ \</text>
+  <text y="80" xml:space="preserve">  | | (_| | | |  __/ | | (_) |</text>
+  <text y="100" xml:space="preserve"> _/ |\__,_|_|  \___|_|  \___/</text>
+  <text y="120" xml:space="preserve">|__/</text>
+</svg>

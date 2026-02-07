@@ -1,13 +1,6 @@
 <div align="center">
 
-<pre style="font-family: monospace; line-height: 1.2;">
-   _
-  (_) __ _ _ __ ___ _ __ ___
-  | |/ _` | '__/ _ \ '__/ _ \
-  | | (_| | | |  __/ | | (_) |
- _/ |\__,_|_|  \___|_|  \___/
-|__/
-</pre>
+<img src="header.svg" alt="jarero" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=I+ship+fast.;Building+in+public;Indie+Hacker;Senior+Software+Engineer" alt="Typing SVG" /></a>
 
