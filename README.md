@@ -1,6 +1,13 @@
 <div align="center">
 
-# Luis Carlos Jarero
+```
+   _
+  (_) __ _ _ __ ___ _ __ ___
+  | |/ _` | '__/ _ \ '__/ _ \
+  | | (_| | | |  __/ | | (_) |
+ _/ |\__,_|_|  \___|_|  \___/
+|__/
+```
 
 **Senior Software Engineer | 5+ years | Fintech | Developer Tools**
 
