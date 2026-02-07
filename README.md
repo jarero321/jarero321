@@ -4,31 +4,98 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=I+ship+fast.;Building+in+public;Indie+Hacker;Senior+Software+Engineer" alt="Typing SVG" /></a>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-carlos-jarero-martínez-195855337)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jareroluis@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=jarero321&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### About
-
 Senior Software Engineer — **5+ years** shipping fintech products across **8 LATAM countries**. I build developer tools, MCP servers, and CLI scaffolders. Clean Architecture obsessed. I use AI to code and I ship fast.
 
 ---
 
-### GitHub Stats
+### What I Ship
+
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">claude-skills</h3>
+    <div align="center">
+      <p>CLI package manager for Claude Code skills & MCP servers</p>
+      <a href="https://github.com/jarero321/portafolio/tree/main/claude-skills">
+        <img src="https://img.shields.io/badge/CODE-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+      </a>
+      <a href="https://www.npmjs.com/package/@cjarero183006/claude-skills">
+        <img src="https://img.shields.io/npm/v/@cjarero183006/claude-skills?style=for-the-badge&color=CB3837&logo=npm&logoColor=white" alt="npm"/>
+      </a>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=ts,nodejs" alt="tech" />
+    </div>
+  </td>
+  <td width="50%">
+    <h3 align="center">create-clean-app</h3>
+    <div align="center">
+      <p>Scaffold Clean Architecture projects — MCP servers & microservices</p>
+      <a href="https://github.com/jarero321/portafolio/tree/main/create-clean-app">
+        <img src="https://img.shields.io/badge/CODE-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+      </a>
+      <a href="https://www.npmjs.com/package/@cjarero183006/create-clean-app">
+        <img src="https://img.shields.io/npm/v/@cjarero183006/create-clean-app?style=for-the-badge&color=CB3837&logo=npm&logoColor=white" alt="npm"/>
+      </a>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=ts,nestjs" alt="tech" />
+    </div>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">mcp-repo-monitor</h3>
+    <div align="center">
+      <p>MCP server for GitHub monitoring — PRs, CI status, rollbacks, drift detection</p>
+      <a href="https://github.com/jarero321/portafolio/tree/main/mcp-repo-monitor">
+        <img src="https://img.shields.io/badge/CODE-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+      </a>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=go" alt="tech" />
+    </div>
+  </td>
+  <td width="50%">
+    <h3 align="center">mcp-obsidian-planner</h3>
+    <div align="center">
+      <p>17 MCP tools for Obsidian vault GTD planning</p>
+      <a href="https://github.com/jarero321/portafolio/tree/main/mcp-obsidian-planner">
+        <img src="https://img.shields.io/badge/CODE-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+      </a>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=ts,nestjs" alt="tech" />
+    </div>
+  </td>
+</tr>
+</table>
+
+```bash
+npx @cjarero183006/claude-skills      # Manage Claude Code skills
+npx @cjarero183006/create-clean-app   # Scaffold new projects
+```
+
+---
+
+### Tech Stack
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jarero321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jarero321&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarero321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,go,cs,nodejs,nestjs,react,nextjs&perline=8" alt="languages" />
+
+**Infrastructure & Testing**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,postgres,kafka,tailwind,linux&perline=8" alt="infra" />
+
 </div>
 
 ---
@@ -51,36 +118,6 @@ Senior Software Engineer — **5+ years** shipping fintech products across **8 L
 
 ---
 
-### What I Build Now
-
-| Project | Description | |
-|---------|-------------|---|
-| [**mcp-repo-monitor**](https://github.com/jarero321/portafolio/tree/main/mcp-repo-monitor) | MCP server for GitHub monitoring — PRs, CI status, rollbacks, drift detection | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
-| [**claude-skills**](https://github.com/jarero321/portafolio/tree/main/claude-skills) | CLI package manager for Claude Code skills & MCP servers | [![npm](https://img.shields.io/npm/v/@cjarero183006/claude-skills?color=CB3837&logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/package/@cjarero183006/claude-skills) |
-| [**create-clean-app**](https://github.com/jarero321/portafolio/tree/main/create-clean-app) | Project scaffolding with Clean Architecture — MCP servers & microservices | [![npm](https://img.shields.io/npm/v/@cjarero183006/create-clean-app?color=CB3837&logo=npm&logoColor=white&style=flat)](https://www.npmjs.com/package/@cjarero183006/create-clean-app) |
-| [**mcp-obsidian-planner**](https://github.com/jarero321/portafolio/tree/main/mcp-obsidian-planner) | 17 MCP tools for Obsidian vault GTD planning | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-
-```bash
-npx @cjarero183006/claude-skills      # Manage Claude Code skills
-npx @cjarero183006/create-clean-app   # Scaffold new projects
-```
-
----
-
-### Tech Stack
-
-**Backend** · Node.js, TypeScript, NestJS, Go, C#/.NET, AWS Lambda, Kafka
-
-**Frontend** · React, Next.js, TypeScript, Tailwind
-
-**Testing** · TDD, BDD, Playwright, Cypress, Jest, Cucumber
-
-**Infrastructure** · AWS, Docker, Kubernetes, GitHub Actions, Azure DevOps
-
-**Architecture** · Clean Architecture, SOLID, Microservices, Event-Driven
-
----
-
 ### Looking For
 
 **Founding engineer** roles focused on developer tools, APIs, AI agents, and messaging platforms.
@@ -93,6 +130,6 @@ I ship fast, own features end-to-end, and thrive in high-autonomy environments w
 
 **Let's build something cool.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-carlos-jarero-martínez-195855337) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jareroluis@gmail.com)
-
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=120&section=footer)
