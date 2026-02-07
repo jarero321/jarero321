@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre style="font-family: monospace; line-height: 1.2;">
    _
   (_) __ _ _ __ ___ _ __ ___
   | |/ _` | '__/ _ \ '__/ _ \
   | | (_| | | |  __/ | | (_) |
  _/ |\__,_|_|  \___|_|  \___/
 |__/
-```
+</pre>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=I+ship+fast.;Building+in+public;Indie+Hacker;Senior+Software+Engineer" alt="Typing SVG" /></a>
 
@@ -36,14 +36,6 @@ Senior Software Engineer — **5+ years** shipping fintech products across **8 L
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jarero321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jarero321&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarero321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
-### Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarero321&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </div>
 
 ---
@@ -93,14 +85,6 @@ npx @cjarero183006/create-clean-app   # Scaffold new projects
 **Infrastructure** · AWS, Docker, Kubernetes, GitHub Actions, Azure DevOps
 
 **Architecture** · Clean Architecture, SOLID, Microservices, Event-Driven
-
----
-
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jarero321&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
